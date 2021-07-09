@@ -55,7 +55,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 </table>
 
 ## [Survey papers](#content)
-1. **Recent Advances in Neural Question Generation.** arxiv, 2019. [paper](https://arxiv.org/pdf/1905.08949.pdf)
+1. **Recent Advances in Neural Question Generation. (Must read)** arxiv, 2019. [paper](https://arxiv.org/pdf/1905.08949.pdf)
     
     *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan* 
 
@@ -65,7 +65,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 ## [Models](#content)   
 
-### [Basic Seq2Seq Models](#basic-models)
+### [Basic Seq2Seq Models (Must read)](#basic-models)
 
 Basic Seq2Seq models with attention to generate questions. 
 
