@@ -2,6 +2,7 @@
 A summary of must-read papers for Neural Question Generation (NQG)
 
 - Contributed by **[Liangming Pan](http://www.liangmingpan.com)**, **[Yuxi Xie](https://yuxixie.github.io/)** and **[Yunxiang Zhang](https://github.com/yunx-z)**
+- Reviewed by Edlab members
 
 Please follow [this link](./README_by_year.md) to view papers in chronological order. 
 
