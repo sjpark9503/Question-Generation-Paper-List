@@ -55,11 +55,11 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 </table>
 
 ## [Survey papers](#content)
-1. **Recent Advances in Neural Question Generation. (Must read)** arxiv, 2019. [paper](https://arxiv.org/pdf/1905.08949.pdf)
+1. **Recent Advances in Neural Question Generation. (Must read) ✅** arxiv, 2019. [paper](https://arxiv.org/pdf/1905.08949.pdf)
     
     *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan* 
 
-2. **A Systematic Review of Automatic Question Generation for Educational Purposes.** International Journal of Artificial Intelligence in Education, 2020. [paper](https://link.springer.com/content/pdf/10.1007/s40593-019-00186-y.pdf)
+2. **A Systematic Review of Automatic Question Generation for Educational Purposes. ✅** International Journal of Artificial Intelligence in Education, 2020. [paper](https://link.springer.com/content/pdf/10.1007/s40593-019-00186-y.pdf)
     
     *Ghader Kurdi, Jared Leo, Bijan Parsia, Uli Sattler, Salam Al-Emari* 
 
@@ -69,15 +69,15 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 Basic Seq2Seq models with attention to generate questions. 
 
-1. **Learning to ask: Neural question generation for reading comprehension.** ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123.pdf)
+1. **Learning to ask: Neural question generation for reading comprehension. ✅** ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123.pdf)
 
     *Xinya Du, Junru Shao, Claire Cardie.*
 
-2. **Neural question generation from text: A preliminary study.** NLPCC, 2017. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
+2. **Neural question generation from text: A preliminary study. ✅** NLPCC, 2017. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
 
     *Qingyu Zhou, Nan Yang, Furu Wei, Chuanqi Tan, Hangbo Bao, Ming Zhou.*
 
-3. **Machine comprehension by text-to-text neural question generation.** Rep4NLP@ACL, 2017. [paper](https://arxiv.org/pdf/1705.02012.pdf)
+3. **Machine comprehension by text-to-text neural question generation. ✅** Rep4NLP@ACL, 2017. [paper](https://arxiv.org/pdf/1705.02012.pdf)
    
    *Xingdi Yuan, Tong Wang, Çaglar Gülçehre, Alessandro Sordoni, Philip Bachman, Saizheng Zhang, Sandeep Subramanian, Adam Trischler*
 
